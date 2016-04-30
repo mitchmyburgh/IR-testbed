@@ -1,23 +1,23 @@
-Most popular programming languages on Github: 2008 to 2015
+Of course, a number of libraries that offer much of what a scientist could want are available for Python. NumPy and SciPy are just two of the most notable libraries nurtured as open source projects and tuned for scientific computation.
 
-GitHub has released a graph detailing the most popular programming languages on its platform between 2008 and 2015.
-By Staff Writer - August 24, 2015 7 Comments
-Share on LinkedIn
-Programming
-Subscribe
-mobile facebook
-mobile twitter
-mobile googleplus
-mobile email
+Scientific and engineering enterprises such as pharmaceutical companies aren't the only ones tapping Python for research. Many Wall Street firms now rely heavily on mathematical analysis and often hire university scientists who bring along their habit of coding in Python. Python is becoming so popular on Wall Street that there are even proposals to require the prospectus for a bond to include a Python algorithm for specifying who gets what return on the investment.
 
-GitHub has released a graph which shows the change in the popularity of programming languages on the platform between 2008 and 2015.
+Programming languages on the rise: Ruby
 
-GitHub is an online Git repository hosting service, which offers distributed revision control and source code management functionality using a web-based graphical interface.
+Some may argue that Ruby and Python are hardly "niche" languages, but the truth is, from an enterprise perspective, they remain promising tools all too often pushed to the margin. That said, Ruby, or more precisely the combination of Ruby with the Rails framework known as Ruby on Rails, is becoming increasingly popular for prototyping. Its entrance into the enterprise came on the heels of the Web 2.0 explosion, wherein many websites began as experiments in Ruby. 37signals -- one of Ruby's many proponents -- actually uses Ruby to deploy code.
 
-Github said the ranking represents languages used in its public and private repositories.
+[ The InfoWorld Test Center puts nine Rails IDEs and editors through their paces in "Lab test: Climb aboard Ruby on Rails." ]
 
-“It should be noted that this graph represents each language’s relative popularity on GitHub. For example, Ruby on Rails has been on GitHub since 2008, which may explain Ruby’s early popularity,” the company said.
+The secret to Ruby's success is its use of "convention over configuration," wherein naming a variable foo causes the corresponding column in the database to automatically be named foo as well. As such, Ruby on Rails is an excellent tool for prototyping, giving you only one reason to type foo. Ruby on Rails takes care of the rest of the CRUD scaffolding for you.
 
-Between 2008 and 2015, GitHub gained a lot of traction in the Java community – which saw its ranking shoot up from seventh to second.
+Ruby on Rails sites are devoted to cataloging data that can be stored in tables. Well-known examples include Web applications like Basecamp, Backcamp, and Campfire from 37Signals, a collection of websites that knits together group discussions, debates, and schedules. Ruby on Rails handles the formatting of these database tables, as well as decisions about what information to display. Using Ruby on Rails' naming convention, production quality code can be sketched up easily without much duplicate effort.
 
-“Possible contributing factors to this growth could be the growing popularity of Android and the increasing demand for version control platforms at businesses and enterprises.”
+Many of the production-grade Ruby websites run on JRuby, a version written in Java that sits squarely on the JVM. JRuby users get all of the JVM's prowess in juggling threads, a very valuable asset in production-level deployments with many concurrent users.
+
+Programming languages on the rise: MATLAB
+
+Built for mathematicians to solve systems of linear equations, MATLAB has found rising interest in the enterprise, thanks to the large volumes of data today's organizations need to analyze. Many of the more sophisticated statistical techniques that match people with advertisements, songs, or Web pages depend upon the power of algorithms like those solved by MATLAB.
+
+Expect MATLAB use to grow as log files grow fatter. It's one thing for a human to look at the list of top pages viewed, but it takes a statistical powerhouse to squeeze ideas from a complex set of paths. Are people more likely to shop for clothes on Monday or Friday? Is there any correlation between product failures and the line that produced them?
+
+MathWorks, the company behind MATLAB, offers a diverse set of whitepapers showing how engineers are searching for statistical answers. Toyota Racing, for instance, plans its NASCAR entries by analyzing tests in wind tunnels and other labs. Canada's Institute for Biodiagnostics is searching for the best treatment for burns.
