@@ -1,0 +1,32 @@
+Frameworks are gaining ground
+Frameworks are challenging programming languages’ supremacy
+May 2, 2016 Gabriela Motroc
+reddit
+LinkedIn
+1
+Google+
+frameworks	
+One pawn staying against full set of chess pieces image via Shutterstock
+
+A growing number of programmers claim that frameworks are the new programming languages, especially since the language wars have simmered down and allowed the framework wars to commence.
+
+Peter Wayner wrote in a 2015 article that frameworks are the new programming languages because it’s no longer feasible to waste time rewriting code if we can rely on our predecessors’ hard work and because knowing the syntax is overrated.
+
+Frameworks remove the need to learn the traits of a language and allow developers to focus more on higher-level methods for designing fresh applications. Becoming an expert in something like how Java initializes static fields in the objects may be a nice addition to one’s CV, but these days it’s better to know the architecture and not the syntax. If you do want to surprise your peers with something, why not focus on the framework’s details instead of the syntax of the language on which it rests?
+Greatest perk: Automation
+
+IDEs are developers’ guardian angels —they tell them when they are not on the right track and give them more time to think about the code while they are busy taking care of the details. Automation equals salvation, because even if they are not supposed to do everything for developers, they make the details about the languages irrelevant.
+
+Wayner also opined that some programming is becoming more visual, which could mean that the underlying computer language does not matter as much. Although visual languages may never fully take over, they further diminish the importance of syntax. Still, not everybody agrees with his viewpoint; some developers claim that most programming remains text dependent, which may mean that visual programming is not likely to become the norm anytime soon.
+
+SEE ALSO: Typescript, Angular 2 and NetBeans IDE: An unbeatable trio
+Keep an eye on these web frameworks
+
+JAXenter recently revealed that the following frameworks remain a focal point this year: Java EE 7, Node.js, Spring Web Flow and more. According to the results of a survey carried out in early 2016, many developers prefer a ‘classic’: 27,3 percent of our respondents find Java EE 7‘very interesting’ and 28,5 percent believe it is ‘interesting’. In total, roughly 56 percent of the respondents have an interest in Java EE 7.
+Screen Shot 2016-05-02 at 2.34.17 PM
+
+JAXenter survey
+
+At the same time, 50,5 percent of the readers said they are interested in Node.js this year, but just a third included Spring Web Flow in their ‘to-work-with’ list. Respondents could not decide between Play Framework and Vaadin, which is why their results are similar: 28,7 percent expressed their interest in Play Framework while 27,2 percent said they find Vaadin interesting. Readers were less interested in dealing with Meteor -only about a fifth of the total number of respondents have an interest in using it.
+
+Just 18,4 percent of the respondents are interested in the Groovy-based Grails and no more than 12,8 percent expressed their interest in dealing with the component-based open-source web framework Apache Wicket. Roughly 10 percent wish to work with (J)Ruby on Rails this year.
