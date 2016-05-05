@@ -12,6 +12,11 @@ Roscoe
 Tumelo
 134-200 : General Web
 
+Find number of words in all the documents
+```bash
+find -name 'document.*' | xargs wc -w
+```
+
 Mitch Links
 * http://www.infoworld.com/article/3060838/application-development/new-functional-programming-language-can-generate-c-python-code-for-apps.html
 * http://qz.com/660788/the-best-programming-languages-you-can-learn/
