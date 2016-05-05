@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 10 Programming Languages You Should Learn Right Now
 94.8k
 Shares
@@ -113,3 +114,116 @@ BONUS: Teaching Kids to Code with a Board Game
 
 Have something to add to this story? Share it in the comments.
 Topics: apps, Apps and Software, coding, dev, Dev & Design, learning, programming, software, Tech, web development 
+=======
+Object-oriented class-based languages[edit]
+Class-based Object-oriented programming languages support objects defined by their class. Class definitions include member data. Message passing is a key concept (if not the key concept) in Object-oriented languages.
+
+Polymorphic functions parameterized by the class of some of their arguments are typically called methods. In languages with single dispatch, classes typically also include method definitions. In languages with multiple dispatch, methods are defined by generic functions. There are exceptions where single dispatch methods are generic functions (e.g. Bigloo's object system).
+
+Multiple dispatch[edit]
+Common Lisp
+Cecil
+Dylan
+Julia
+Single dispatch[edit]
+ActionScript 3.0
+Actor
+Ada 95 and Ada 2005 (multi-purpose language)
+BETA
+Blue
+C++
+C#
+Ceylon
+Oxygene (formerly known as Chrome)
+ChucK
+Cobra
+ColdFusion
+Curl
+D
+DASL
+Delphi
+E
+GNU E
+eC
+Eiffel
+Sather
+Ubercode
+F-Script
+Fortran 2003
+Fortress
+FPr
+Gambas
+Game Maker Language
+Harbour
+J
+Java
+Processing
+Groovy
+Join Java
+Tea
+X10
+LabVIEW
+Lava
+Lua
+Modula-2 (data abstraction, information hiding, strong typing, full modularity)
+Modula-3 (added more object-oriented features to Modula-2)
+Nemerle
+IBM NetRexx
+Oberon-2 (full object-orientation equivalence in an original, strongly typed, Wirthian manner)
+Object Pascal
+Object REXX
+Objective-C (a superset of C adding a Smalltalk derived object model and message passing syntax)
+OCaml
+Oz, Mozart Programming System
+Perl 5
+PHP
+Pike
+Prograph
+Python (interpretive language, optionally object-oriented)
+Realbasic
+Revolution (programmer does not get to pick the objects)
+Ruby
+Scala
+Simula (the first object-oriented language, developed by Ole-Johan Dahl and Kristen Nygaard)
+Smalltalk (pure object-orientation, developed at Xerox PARC)
+Bistro
+F-Script
+Little Smalltalk
+Squeak
+Scratch
+IBM VisualAge
+VisualWorks
+SPIN
+SuperCollider
+VBScript (Microsoft Office 'macro scripting' language)
+Visual DataFlex
+Visual FoxPro
+Visual Prolog
+X++
+XOTcl
+Object-oriented prototype-based languages[edit]
+Prototype-based languages are object-oriented languages where the distinction between classes and instances has been removed:
+
+ABCL/1
+ABCL/R
+ABCL/R2
+ABCL/c plus
+Agora
+Cecil
+ECMAScript
+ActionScript
+ECMAScript for XML
+JavaScript (first named Mocha, then LiveScript)
+JScript
+Etoys in Squeak
+Io
+Lisaac
+Lua
+MOO
+NewtonScript
+Obliq
+R
+REBOL
+Self (the first prototype-based language, derived from Smalltalk)
+TADS
+>>>>>>> 8101f027b4ff76c9c7a47c43e46d5824b49ecf5a

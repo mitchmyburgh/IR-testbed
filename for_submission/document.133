@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Programming language
 
 Related Terms
@@ -56,3 +57,101 @@ Related Links
     Programming Language Research
 
 
+=======
+Off-side rule languages[edit]
+Off-side rule languages are those where blocks are formed, indicated, by their indentation.
+
+ISWIM, the abstract language that introduced the rule
+ABC, Python's parent
+Python
+Cobra
+Boo
+Genie
+Miranda, Haskell's parent
+Orwell
+Haskell
+Curry
+Elixir
+F#
+Nim
+Occam
+SPIN
+XL
+Procedural languages[edit]
+Procedural programming languages are based on the concept of the unit and scope (the data viewing range of an executable code statement). A procedural program is composed of one or more units or modules, either user coded or provided in a code library; each module is composed of one or more procedures, also called a function, routine, subroutine, or method, depending on the language. Examples of procedural languages include:
+
+Ada (multi-purpose language)
+ALGOL (extremely influential language design – the second high level language compiler)
+SMALL Machine Algol Like Language
+Alma-0
+BASIC (BASICs are innocent of most modularity in (especially) versions before about 1990)
+BCPL
+BLISS
+Blue
+C
+C++ (C with objects plus much else, such as, generics through STL)
+C# (similar to Java/C++)
+Ceylon
+ChucK (C/Java-like syntax, with new syntax elements for time and parallelism)
+COBOL
+Cobra
+ColdFusion
+Combined Programming Language (CPL)
+Curl
+D
+DASL (partly declarative, partly imperative)
+eC
+ECMAScript
+ActionScript
+ECMAScript for XML
+JavaScript (first named Mocha, then LiveScript)
+JScript
+Eiffel
+Fortran (better modularity in later Standards)
+F
+GAUSS
+Go
+Harbour
+HyperTalk
+Java
+Groovy
+Join Java
+Tea
+JOVIAL
+Julia
+Lasso
+Modula-2 (fundamentally based on modules)
+Mathematica
+MATLAB
+MUMPS (More modular in its first release than a language of the time should have been; The standard has become still more modular since then.)
+Nemerle
+Oberon and Oberon-2 (improved, smaller, faster, safer follow-ons for Modula-2)
+Component Pascal
+Lagoona
+Seneca
+Occam
+Oriel
+Pascal (successor to ALGOL 60, predecessor of Modula-2)
+Free Pascal (FPC)
+Object Pascal (Delphi)
+PCASTL
+Perl
+Pike
+PL/C
+PL/I (large general purpose language, originally for IBM mainframes)
+Plus
+PROSE
+Python
+R
+Rapira
+RPG (available only in IBM's System i midrange computers)
+Rust
+S-Lang
+VBScript
+Visual Basic
+Visual FoxPro
+Wolfram Language
+X++
+X#
+XL
+>>>>>>> 8101f027b4ff76c9c7a47c43e46d5824b49ecf5a
