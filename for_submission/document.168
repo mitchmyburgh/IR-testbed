@@ -1,45 +1,39 @@
-Top Programming Languages That Generate Software Vulnerabilities
-Classic ASP leads the pack, but nobody really uses it anyway
-Dec 4, 2015 01:51 GMT  ·  By Catalin Cimpanu  ·  Share: 
+About Scratch
 
-Scripting languages, in general, tend to spawn more security bugs in applications, as Veracode reports, a security firm that has analyzed 208,670 applications from October 1, 2013, through March 31, 2015.
+With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community.
 
-The report used a unique metric, Flaw Density per MB, meaning the number of security issues discovered in each MB of source code. According to Veracode's analysis, the unfortunate winners are:
+Scratch helps young people learn to think creatively, reason systematically, and work collaboratively — essential skills for life in the 21st century.
 
-»      Classic ASP - with 1,686 flaws/MB (1,112 critical flaws/MB)
+Scratch is a project of the Lifelong Kindergarten Group at the MIT Media Lab. It is provided free of charge.
 
-»      ColdFusion - with 262 flaws/MB (227 critical flaws/MB)
+    Info for parentsInfo for educators
 
-»      PHP - with 184 flaws/MB (47 critical flaws/MB)
+    Who Uses Scratch?
 
-»      Java - with 51 flaws/MB (5.2 critical flaws/MB)
+    Scratch is designed especially for ages 8 to 16, but is used by people of all ages. Millions of people are creating Scratch projects in a wide variety of settings, including homes, schools, museums, libraries, and community centers.
+    Learn to Code, Code to Learn
 
-»      .NET - with 32 flaws/MB (9.7 critical flaws/MB)
+    The ability to code computer programs is an important part of literacy in today’s society. When people learn to code in Scratch, they learn important strategies for solving problems, designing projects, and communicating ideas.
+    Around the World
 
-»      C++ - with 26 flaws/MB (8.8 critical flaws/MB)
+    Scratch is used in more than 150 different countries and available in more than 40 languages. To change languages, click the menu at the bottom of the page. Or, in the Project Editor, click the globe at the top of the page. To add or improve a translation, see the translation page.
+    Scratch in Schools
 
-»      iOS - with 23 flaws/MB (0.9 critical flaws/MB)
+    Students are learning with Scratch at all levels (from elementary school to college) and across disciplines (such as math, computer science, language arts, social studies). Educators share stories, exchange resources, ask questions, and find people on the ScratchEd website.
+    Quotes
+    Quotes about Scratch
 
-»      Android - with 11 flaws/MB (0.4 critical flaws/MB)
+    The Scratch Team has received many emails from youth, parents, and educators expressing thanks for Scratch. Want to see what people are saying? You can read a collection of the quotes we've received.
+    Research
 
-»      JavaScript - with 8 flaws/MB (0.09 critical flaws/MB)
+    The MIT Scratch Team and collaborators are researching how people use and learn with Scratch (for an introduction, see Scratch: Programming for All). Find out more about Scratch research and statistics about Scratch.
+    Learn More About Scratch
 
-While Classic ASP is almost dead, and ColdFusion is a high-end niche tool, PHP coming third, is actually leading the ranking.
-PHP continues to be one of the main sources for many security bugs
+        Scratch Help Page
+        Frequently Asked Questions
+        Information for Parents
+        Scratch Credits
 
-With a huge fanbase and used in countless of apps and websites around the Internet, PHP is ranked the worst when it came to command injection bugs, but also came close to the top when it came to SQL injections, cross-site scripting bugs, and cryptographic issues.
+    Support and Funding
 
-Taking a closer look at PHP, we also see that 86% of all the analyzed apps included XSS issues, 73% included cryptographic issues, 67% allowed for directory traversal, 61% for code injection, 58% had problems with credentials management, 56% included SQL injection issues, and 50% allowed for information leakage.
-
-When it came to policy compliance tests, scanned PHP applications passed the OWASP Top 10 tests only in 19% of the cases. ColdFusion had the only lowest rating with 17% while C/C++ passed OWASP tests in 60% of the cases.
-
-"In particular, note that applications in truly compiled application languages like C/C++ and Objective C (iOS) have a higher OWASP pass rate than general-purpose bytecode languages like Java or .NET, while scripting languages like Classic ASP, ColdFusion and PHP have a far lower pass rate," noted the Veracode team in their report.
-
-For more details, check out Vercode's State of Software Security Report, Vol 6, Fall 2015.
-Top vulnerability categories by programming language
-Top vulnerability categories by programming language
-  CHECK OUT THE GALLERY  (2 Images)
-#PHP#programming#programming language#OWASP#top 10
-
-Read more: http://news.softpedia.com/news/top-programming-languages-that-generate-software-vulnerabilities-497101.shtml#ixzz47ZxWZLEW
-
+    The Scratch project has received financial support from the National Science Foundation, Scratch Foundation, Google, LEGO Foundation, Intel, Cartoon Network, Lemann Foundation, and MacArthur Foundation. See the credits page for more information. If you'd like to support Scratch, please see the Scratch Foundation donate page, or contact us at donate@scratch.mit.edu.
